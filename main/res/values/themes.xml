@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.TasarimCalismasi" parent="Theme.Material3.DayNight.NoActionBar">
+            <item name="colorPrimary">#8D6E63</item>
+            <item name="colorPrimaryVariant">#5D4037</item>
+            <item name="colorOnPrimary">#FFFFFF</item>
+
+    </style>
+
+    <style name="Theme.TasarimCalismasi" parent="Base.Theme.TasarimCalismasi" />
+</resources>

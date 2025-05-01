@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TasarimCalismasi</string>
+
+    <string name="cappuccino">Cappuccino</string>
+    <string name="coffee_size">Kahve Boyutu</string>
+    <string name="description">Cappuccino, İtalyan kökenli, espresso bazlı klasik bir kahve çeşididir. Adını, rengiyle benzerlik gösteren Kapuçin keşişlerinin kahverengi cüppelerinden alır. Hazırlanışı titizlik gerektirir; bu içecek üç eşit katmandan oluşur: espresso, sıcak süt ve süt köpüğü.apım süreci, özenle hazırlanmış bir espresso shot'ı ile başlar. Ardından süt buharda ısıtılarak kremsi bir kıvama getirilir ve mikro köpük haline gelene kadar çırpılır. Bu süt, espresso üzerine yavaşça eklenir. En üst katman olarak, yoğun ve kadifemsi süt köpüğü dikkatlice dökülür.İdeal bir cappuccino, her katmanın eşit miktarda olmasıyla karakterizedir. Genellikle üzerine isteğe bağlı olarak kakao tozu veya tarçın serpilerek servis edilir. Cappuccino, kahvenin yoğunluğunu sütle dengelerken, içime yumuşak ve zengin bir tat sunar. Özellikle sabah saatlerinde içilmesi gelenekseldir, çünkü hafifliği ve tok tutucu etkisiyle güne güzel bir başlangıç sağlar</string>
+    <string name="add_to_cart">Sepete Ekle</string>
+
+
+</resources>
